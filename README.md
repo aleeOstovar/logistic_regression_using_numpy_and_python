@@ -1,1 +1,1 @@
-# logistic_regression_using_numpy_and_python
+# logistic regression using numpy and python
